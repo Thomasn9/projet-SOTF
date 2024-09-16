@@ -1,0 +1,43 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+
+header{
+   border: solid white 5px;
+   display: flex;
+   justify-content: space-between;
+   background-image: url(./image/baniere2.png);
+}
+
+#butinProfil{
+   margin: 7vh;
+}
+
+#imgLogo{
+   border: solid gray 2px;
+   border-radius: 5%;
+   width: 20vh;
+   height: 17vh; 
+   margin: 7vh;
+ 
+}
+
+#imgButin{
+   border: solid gray 2px; 
+   border-radius: 5%;
+   width: 15vh;
+   height: 15vh; 
+   margin-right: 10px; 
+   padding: 10px;
+}
+
+#imgProfil{
+   border: solid gray 2px;
+   border-radius: 5%; 
+   width: 15vh;
+   height: 15vh; 
+   margin-left: 10px; 
+   padding: 10px; 
+}
+
